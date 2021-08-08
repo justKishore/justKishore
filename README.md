@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and Blockchain.
 - 🌱 I’m currently learning dapp development and getting started with Data science
 - 💞️ I currently work as Software intern at CESIT
-- 📫 Reach me on Instagram @just_kishore_ or Linkedin @kishoresudhir
+- 📫 Connect to me via https://justkishore.github.io/MySite/
 
 <!---
 justKishore/justKishore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
